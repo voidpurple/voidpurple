@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @voidpurple
 - 👀 I’m interested in FOSS Development and Cybersecurity research
-- 🌱 I’m currently looking new job oppurtunities
+- 🌱 I’m currently looking for new job oppurtunities and any IT freelance works
 - 💞️ I’m looking to collaborate on FOSS Projects
 - 📫 How to reach me ... voidpurples@gmail.com
 
